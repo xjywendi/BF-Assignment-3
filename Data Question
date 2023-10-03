@@ -1,0 +1,23 @@
+2. Detailed description of the data. 
+
+Dataset of stock prices at different time intervals of Apple USA. 
+
+Time Period: Oct 02, 2018 - Oct 02, 2023
+
+Date: date of the stocks
+Open:It is the price at which the financial security opens in the market when trading begins.
+High: The high is the highest price at which a stock traded during a period.
+Low: The low is the lowest price at which a stock traded during a period.
+Close*:Closing price generally refers to the last price at which a stock trades during a regular trading session.
+Adj Close**	: The adjusted closing price amends a stock's closing price to reflect that stock's value after accounting.
+Volume: Volume measures the number of shares traded in a stock or contracts traded in futures or options.
+
+
+3. Data Collection Methodology 
+I collected this data from the Yahoo finance website. Although this data should be in a daily basis, in the Yahoo finance website, 
+I changed the frequency to monthly so it would be easier to compute. I have also chosen within the five years of stock data.
+
+
+4. Why does this data set intrigue you?
+My family have stocks from Apple, so it would be interesting to see how i can forecast about this data. Also I uses many of apple products, it would be 
+interesting to see how much increase of a stock and happen when they release a new price, and we can forecast in future purposes.
